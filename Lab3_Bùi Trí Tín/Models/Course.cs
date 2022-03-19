@@ -19,6 +19,6 @@ namespace Lab3_Bùi_Trí_Tín.Models
         public DateTime DateTime { get; set; }
         public Category Category { get; set; }
         [Required]
-        public byte CategoyId { get; set; }
+        public byte CategoryId { get; set; }
     }
 }
